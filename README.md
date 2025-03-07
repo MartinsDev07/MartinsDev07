@@ -24,4 +24,6 @@
 
 ###
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=default)
+<img src="https://raw.githubusercontent.com/MartinsDev07/MartinsDev07/output/snake.svg" alt="Snake animation" />
+
+###
